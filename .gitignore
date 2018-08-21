@@ -92,3 +92,9 @@ hs_err_pid*
 
 /spring-cloud.iml
 /.idea/
+/spring-cloud-config-client/spring-cloud-config-client.iml
+/spring-cloud-config-server/spring-cloud-config-server.iml
+/spring-cloud-eureka-provider3/spring-cloud-eureka-provider3.iml
+/spring-cloud-eureka-provider/spring-cloud-eureka-provider.iml
+/spring-cloud-eureka-consumer/spring-cloud-eureka-consumer.iml
+/spring-cloud-eureka-server/spring-cloud-eureka-server.iml
