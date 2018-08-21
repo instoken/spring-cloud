@@ -14,7 +14,6 @@ public class HelloController {
     @Value("${jacksong}")
     private String hello;
 
-
     @RequestMapping(value = "hello")
     public String hello(){
         return hello;
