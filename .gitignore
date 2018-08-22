@@ -98,3 +98,4 @@ hs_err_pid*
 /spring-cloud-eureka-provider/spring-cloud-eureka-provider.iml
 /spring-cloud-eureka-consumer/spring-cloud-eureka-consumer.iml
 /spring-cloud-eureka-server/spring-cloud-eureka-server.iml
+!/spring-cloud.iml
