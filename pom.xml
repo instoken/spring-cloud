@@ -42,6 +42,11 @@
         <module>spring-cloud-eureka-provider</module>
         <module>spring-cloud-eureka-consumer</module>
         <module>spring-cloud-eureka-provider3</module>
+        <module>spring-cloud-consumer-hystrix</module>
+        <module>spring-cloud-consumer-node1</module>
+        <module>spring-cloud-consumer-node2</module>
+        <module>spring-cloud-hystrix-dashboard-turbine</module>
+        <module>spring-cloud-config-server2</module>
     </modules>
 
 

@@ -16,4 +16,9 @@ public class ProviderController {
     public String hello(@RequestParam(value = "name") String name){
         return "hello,"+name;
     }
+
+    @RequestMapping("/hello2")
+    public String hello2(@RequestParam(value = "name") String name){
+        return "hello2,"+name;
+    }
 }
