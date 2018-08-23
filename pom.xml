@@ -48,6 +48,9 @@
         <module>spring-cloud-hystrix-dashboard-turbine</module>
         <module>spring-cloud-config-server2</module>
         <module>spring-cloud-config-client2</module>
+        <module>spring-cloud-zuul</module>
+        <module>spring-cloud-zuul-provider1</module>
+        <module>spring-cloud-zuul-provider2</module>
     </modules>
 
 
