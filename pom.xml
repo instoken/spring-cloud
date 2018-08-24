@@ -51,6 +51,7 @@
         <module>spring-cloud-zuul</module>
         <module>spring-cloud-zuul-provider1</module>
         <module>spring-cloud-zuul-provider2</module>
+        <module>spring-cloud-zipkin-server</module>
     </modules>
 
 
